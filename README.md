@@ -1,4 +1,4 @@
 test
 ====
 
-this is a test project[update1].
+this is a test project[update2].
